@@ -15,13 +15,13 @@ pip install cvzone
 ## Usage
 Clone the repository to your local machine:
 
-git clone https://github.com/abhinav16aero/presenter-tool.git
+git clone https://github.com/abhinav16aero/presentertool.git
 Open a terminal window and navigate to the project directory:
 
 cd presenter-tool
 Run the script:
 
-python presenter.py
+python Presenter_tool.py
 Once the script is running, position your hand in front of the webcam and perform the following gestures to control your presentation:
 
 Raise your index finger to move the pointer on the slide.
