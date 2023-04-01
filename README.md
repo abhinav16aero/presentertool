@@ -1,15 +1,15 @@
-### Presenter Tool using CV2 and Hand Detector Module from CVZone
+# Presenter Tool using CV2 and Hand Detector Module from CVZone
 This is a Presenter Tool built using the OpenCV library (cv2) and the Hand Detector Module from CVZone. It allows users to control their presentations by using hand gestures detected by their webcam.
 
-Requirements
+## Requirements
 Python 3.x
 OpenCV (cv2) library
 NumPy library
 CVZone library
-Installation
+## Installation
 You can install the required libraries using pip:
 
-bash
+%bash
 Copy code
 pip install opencv-python
 pip install numpy
