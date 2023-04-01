@@ -9,42 +9,31 @@ CVZone library
 ## Installation
 You can install the required libraries using pip:
 
-%bash
-Copy code
 pip install opencv-python
 pip install numpy
 pip install cvzone
-Usage
+## Usage
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your-username/presenter-tool.git
+git clone https://github.com/abhinav16aero/presenter-tool.git
 Open a terminal window and navigate to the project directory:
 
-bash
-Copy code
 cd presenter-tool
 Run the script:
 
-bash
-Copy code
 python presenter.py
 Once the script is running, position your hand in front of the webcam and perform the following gestures to control your presentation:
 
-Show the palm of your hand to start the presentation.
-Close your fist to move to the next slide.
-Raise your index finger to go back to the previous slide.
-Raise your middle finger to end the presentation.
+Raise your index finger to move the pointer on the slide.
+
 Note: Make sure your hand is visible to the webcam and there is enough lighting in the room for the hand detector to work properly.
 
-Customization
+## Customization
 You can customize the Presenter Tool by modifying the presenter.py file. For example, you can change the path to your presentation file, the size of the window, or the hand detection threshold.
 
-Credits
-This Presenter Tool was built using the Hand Detector Module from CVZone, which was created by Murtaza Hassan. You can find more information about CVZone and the Hand Detector Module in the following links:
+## Credits
+This Presenter Tool was built using the Hand Detector Module from CVZone, which was created by Murtaza Hassan. You can find more information about CVZone and the Hand Detector Module.
 
-CVZone GitHub Repository
-CVZone Hand Detector Module Tutorial
-License
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
