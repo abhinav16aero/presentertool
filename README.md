@@ -1,4 +1,4 @@
-## Presenter Tool using CV2 and Hand Detector Module from CVZone
+### Presenter Tool using CV2 and Hand Detector Module from CVZone
 This is a Presenter Tool built using the OpenCV library (cv2) and the Hand Detector Module from CVZone. It allows users to control their presentations by using hand gestures detected by their webcam.
 
 Requirements
